@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-  <img class="width:500px;" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
+  <img style="width:500px;" src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" />
 </div>
 <!--
 **Reza98Sh/Reza98Sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
