@@ -8,17 +8,17 @@
 ### :woman_technologist: About Me :
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Iran.
 
-I describe myself as a combination of the following words:
+I describe myself using the following words:
 
-- Geek: That is the most accurate word to describe me. I like to enjoy what I do, so I can be creative and motivated.
+- **Geek**: This term encapsulates me perfectly. I find joy in my work, which fuels my creativity and motivation.
 
-- Minimalist: In my opinion, a simple product that is stable and works well is better than a full-featured buggy product, In general, simplicity is better than complexity.
+- **Minimalist**: I believe that a simple, stable product is far superior to a feature-rich but buggy one. In general, simplicity trumps complexity.
 
-- Introvert: I don't talk much because most of my conversations are internal.
+- **Introvert**: My conversations are mostly internal, so I tend to speak less.
 
-- Skeptic: I am always ready to listen to the opinions of others and I do not hesitate to admit ignorance.
+- **Skeptic**: I’m always open to hearing others’ opinions and readily acknowledge my own lack of knowledge when necessary.
 
-- My goal is become a great open source contributer because I think there are a lot of new things to learn from those projects.
+My ambition is to become an influential open-source contributor, as I believe these projects offer vast opportunities for learning and growth.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reza-sharafi-95aa761a8/)
 - 
