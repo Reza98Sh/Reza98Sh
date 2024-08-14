@@ -20,7 +20,7 @@ I describe myself using the following words:
 
 My ambition is to become an influential open-source contributor, as I believe these projects offer vast opportunities for learning and growth.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reza-sharafi-95aa761a8/)
+- :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/reza-sharafi-95aa761a8/)
 - 
 <!--
 **Reza98Sh/Reza98Sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
