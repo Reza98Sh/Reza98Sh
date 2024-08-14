@@ -36,3 +36,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+![Metrics](/github-metrics.svg)
+
