@@ -28,7 +28,6 @@ My ambition is to become an influential open-source contributor, as I believe th
 <img src="effect.gif" style=" 
     height: 78%;
     width: 40%;
-    position: absolute;
     top: 52px;
     left: 381px;  
     animation: bg 2s ease 4.7s;
@@ -43,7 +42,6 @@ My ambition is to become an influential open-source contributor, as I believe th
   <div style="   width: 2px;
     height: 300px;
     background-color: #ff841f;
-    position: absolute;
     left: 649px;
     top: 151px;
     animation: animation2 2s 1s;
@@ -53,7 +51,6 @@ My ambition is to become an influential open-source contributor, as I believe th
   </div>
   <div  style="width: 300px;
     height: 300px;
-    position: absolute;
     left: 505px;
     top: 151px;
     /* clip-path: circle(50% at 50% 50%); */
@@ -65,7 +62,6 @@ My ambition is to become an influential open-source contributor, as I believe th
   </div>
   <div  style=" width: 300px;
     height: 300px;
-    position: absolute;
     left: 505px;
     top: 151px;
     /* clip-path: circle(50% at 50% 50%); */
@@ -77,7 +73,6 @@ My ambition is to become an influential open-source contributor, as I believe th
   </div>
   <div class="parent4" style="   width: 300px;
     height: 300px;
-    position: absolute;
     left: 504px;
     top: 151px;
     /* clip-path: circle(50% at 50% 50%); */
@@ -91,7 +86,6 @@ My ambition is to become an influential open-source contributor, as I believe th
   </div>
   <div class="parent5" style="    width: 200px;
     height: 200px;
-    position: absolute;
     left: 555px;
     top: 201px;
     /* clip-path: circle(50% at 50% 50%); */
@@ -107,7 +101,6 @@ My ambition is to become an influential open-source contributor, as I believe th
   <div class="circles" style="    display: inline-block;
     width: 300px;
     height: 300px;
-    position: relative;
     left: 505px;
     top: 151px;
     transform: rotate(360deg) scale(1.2);
@@ -117,7 +110,6 @@ My ambition is to become an influential open-source contributor, as I believe th
 
   <div class="c1" style=" width: 100px;
     height: 100px;
-    position: absolute;
     left: 33%;
     top: -13%;
     border: 5px solid #ff841f;
@@ -127,7 +119,6 @@ My ambition is to become an influential open-source contributor, as I believe th
     z-index: 3;"></div>
   <div class="c2" style="    width: 100px;
     height: 100px;
-    position: absolute;
     left: 77%;
     top: 11%;
     border: 5px solid #ff841f;
@@ -136,7 +127,6 @@ My ambition is to become an influential open-source contributor, as I believe th
     transition: all .7s;"></div>
   <div class="c3" style="  width: 100px;
     height: 100px;
-    position: absolute;
     right: 77%;
     top: 11%;
     border: 5px solid #ff841f;
@@ -145,7 +135,6 @@ My ambition is to become an influential open-source contributor, as I believe th
     transition: all .7s;"></div>
   <div class="c4" style=" width: 100px;
     height: 100px;
-    position: absolute;
     left: 33%;
     top: 80%;
     border: 5px solid #ff841f;
@@ -154,7 +143,6 @@ My ambition is to become an influential open-source contributor, as I believe th
     transition: all .7s;"></div>
   <div class="c5" style="    width: 100px;
     height: 100px;
-    position: absolute;
     left: -7%;
     top: 60%;
     border: 5px solid #ff841f;
@@ -163,7 +151,6 @@ My ambition is to become an influential open-source contributor, as I believe th
     transition: all .7s;"></div>
   <div class="c6" style="    width: 100px;
     height: 100px;
-    position: absolute;
     left: 74%;
     top: 60%;
     border: 5px solid #ff841f;
