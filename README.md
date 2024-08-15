@@ -40,24 +40,11 @@ My ambition is to become an influential open-source contributor, as I believe th
 ---
 
 
-<!-- <div align="center">
-<img src="imgs/drStrange.png" />
-
-<img src="effect.gif" style=" 
-    height: 78%;
-    width: 40%;
-    position: absolute;
-    top: 52px;
-    left: 381px;  
-    animation: bg 2s ease 4.7s;
-    animation-fill-mode: backwards;
-    opacity: .8;
-    backface-visibility: hidden;
-    transform: rotate(360deg);
-    " />
+<div align="center">
+<img src="/dr.gif" /> 
 
 </div>
- -->
+
 
 <!--
 **Reza98Sh/Reza98Sh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
