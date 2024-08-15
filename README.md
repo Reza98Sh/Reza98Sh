@@ -29,9 +29,7 @@ My ambition is to become an influential open-source contributor, as I believe th
     height: 78%;
     width: 40%;
     top: 52px;
-    left: 381px;  
-    animation: bg 2s ease 4.7s;
-    animation-fill-mode: backwards;
+    left: 381px; 
     opacity: .8;
     backface-visibility: hidden;
     transform: rotate(360deg);
@@ -44,8 +42,6 @@ My ambition is to become an influential open-source contributor, as I believe th
     background-color: #ff841f;
     left: 649px;
     top: 151px;
-    animation: animation2 2s 1s;
-    transform: rotate(280deg);
     opacity: 0;
     box-shadow: 0 0 100px #fa9542;">
   </div>
@@ -56,8 +52,6 @@ My ambition is to become an influential open-source contributor, as I believe th
     /* clip-path: circle(50% at 50% 50%); */
     border: 5px solid #ff841f;
     border-radius: 1000px;
-    animation: animation1 1s ease 2s;
-    animation-fill-mode: backwards;
     box-shadow: 0 0 100px #ff841f;">
   </div>
   <div  style=" width: 300px;
@@ -66,8 +60,6 @@ My ambition is to become an influential open-source contributor, as I believe th
     top: 151px;
     /* clip-path: circle(50% at 50% 50%); */
     border: 5px solid #ff841f;
-    animation: animation3 1s ease 2.6s;
-    animation-fill-mode: backwards;
     transform: scale(1.2);
     box-shadow: 0 0 100px #ff841f;">
   </div>
@@ -77,8 +69,6 @@ My ambition is to become an influential open-source contributor, as I believe th
     top: 151px;
     /* clip-path: circle(50% at 50% 50%); */
     border: 5px solid #ff841f;
-    animation: animation4 1s ease 3.2s;
-    animation-fill-mode: backwards;
     transform: rotate(315deg) scale(1.2);
     z-index: -1;
     box-shadow: 0 0 20px #ff841f;
@@ -91,8 +81,6 @@ My ambition is to become an influential open-source contributor, as I believe th
     /* clip-path: circle(50% at 50% 50%); */
     border: 5px solid #ff841f;
     border-radius: 1000px;
-    animation: animation1 1s ease 2s;
-    animation-fill-mode: backwards;
     box-shadow: 0 0 100px #ff841f;
     transition: all 1s;
     z-index: 10;">
@@ -104,8 +92,6 @@ My ambition is to become an influential open-source contributor, as I believe th
     left: 505px;
     top: 151px;
     transform: rotate(360deg) scale(1.2);
-    animation: animation5 3s 4s;
-    animation-fill-mode: backwards;
     backface-visibility: hidden;">
 
   <div class="c1" style=" width: 100px;
