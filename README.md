@@ -422,4 +422,9 @@ My ambition is to become an influential open-source contributor, as I believe th
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---> -->
+-->
+
+
+![Metrics](/github-metrics.svg)
+
+
